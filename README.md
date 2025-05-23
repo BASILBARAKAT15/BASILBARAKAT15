@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil Barakat</h1>
-<h3 align="center">Computer engineering student at An Najah University</h3>
+<h3 align="center">A passionate frontend developer from India Computer engineering student at An Najah University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basilbarakat15&label=Profile%20views&color=0e75b6&style=flat" alt="basilbarakat15" /> </p>
 
@@ -10,9 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@basil97613744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@basil97613744" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil barakat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/basil-barakat-b6090b34b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/basil-barakat-b6090b34b" height="30" width="40" /></a>
 <a href="https://fb.com/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basil barakat" height="30" width="40" /></a>
-<a href="https://instagram.com/basil.barakat_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basil.barakat_2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
