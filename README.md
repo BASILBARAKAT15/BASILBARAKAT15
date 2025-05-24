@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@basil97613744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@basil97613744" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/basil-barakat-b6090b34b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/basil-barakat-b6090b34b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/basil-barakat-b6090b34b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh9ymhauvq0k4j4w7c5mtuw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basil-barakat-b6090b34b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh9ymhauvq0k4j4w7c5mtuw%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basil barakat" height="30" width="40" /></a>
 <a href="https://instagram.com/basil.barakat_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basil.barakat_2004" height="30" width="40" /></a>
 </p>
