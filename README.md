@@ -1,25 +1,15 @@
-<h1 align="center">Hi 👋, I'm Basil Barakat</h1>
-<h3 align="center">Computer engineering student at An Najah University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basilbarakat15&label=Profile%20views&color=0e75b6&style=flat" alt="basilbarakat15" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Basil Barakat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basil.barakat_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Basil Barakat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@basil97613744) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barakatbasil79@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilbarakat15" alt="basilbarakat15" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BASILBARAKAT15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BASILBARAKAT15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BASILBARAKAT15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/@basil97613744" target="blank"><img src="https://img.shields.io/twitter/follow/@basil97613744?logo=twitter&style=for-the-badge" alt="@basil97613744" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=BASILBARAKAT15&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@basil97613744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@basil97613744" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/basil-barakat-b6090b34b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh9ymhauvq0k4j4w7c5mtuw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basil-barakat-b6090b34b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bh9ymhauvq0k4j4w7c5mtuw%3d%3d" height="30" width="40" /></a>
-<a href="https://fb.com/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basil barakat" height="30" width="40" /></a>
-<a href="https://instagram.com/basil.barakat_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basil.barakat_2004" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basilbarakat15&show_icons=true&locale=en&layout=compact" alt="basilbarakat15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilbarakat15&show_icons=true&locale=en" alt="basilbarakat15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilbarakat15&" alt="basilbarakat15" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
