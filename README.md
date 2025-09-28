@@ -66,28 +66,6 @@
 
 ---
 
-## Pinned projects
-
-> Replace these with links to your actual repos and short descriptions.
-
-- **Project A** — Short sentence about what the project does and the tech used.
-- **Project B** — Short sentence about impact or a demo link.
-
----
-
-## Goals / What I'm learning
-
-- Learn advanced VHDL techniques and verification (TDD/BDD workflow)
-- Explore hardware attacks and secure design practices
-- Build a polished portfolio of embedded projects with documentation and demos
-
----
-
-## How to use this README
-
-1. Copy the content of this file into your `README.md` in your GitHub profile repo (the repo named `basilbarakat15`).
-2. Replace placeholder project names and profile links with your exact URLs.
-3. If you want a minimal or dark theme version, tell me and I will provide variants.
 
 ---
 
