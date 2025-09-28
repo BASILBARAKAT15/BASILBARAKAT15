@@ -1,25 +1,94 @@
 <h1 align="center">Hi 👋, I'm Basil Barakat</h1>
-<h3 align="center">Computer engineering student at An Najah University</h3>
+<h3 align="center">Computer Engineering Student · An-Najah National University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basilbarakat15&label=Profile%20views&color=0e75b6&style=flat" alt="basilbarakat15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilbarakat15" alt="basilbarakat15" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@basil97612744" target="blank"><img src="https://img.shields.io/twitter/follow/@basil97612744?logo=twitter&style=for-the-badge" alt="@basil97612744" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@basil97612744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@basil97612744" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basil barakat" height="30" width="40" /></a>
-<a href="https://fb.com/basil barakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basil barakat" height="30" width="40" /></a>
-<a href="https://instagram.com/basil.barakat_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basil.barakat_2004" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/basilbarakat15"><img src="https://komarev.com/ghpvc/?username=basilbarakat15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Social / follow badges -->
+  <a href="https://twitter.com/basil97612744" target="_blank"><img src="https://img.shields.io/twitter/follow/basil97612744?label=Follow&style=for-the-badge&logo=twitter" alt="Follow on Twitter"/></a>
+  <a href="https://linkedin.com/in/basil-barakat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/basil.barakat" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/basil.barakat_2004" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basilbarakat15&show_icons=true&locale=en&layout=compact" alt="basilbarakat15" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basilbarakat15&show_icons=true&locale=en" alt="basilbarakat15" /></p>
+## About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basilbarakat15&" alt="basilbarakat15" /></p>
+- 🎓 Computer Engineering student at An-Najah National University
+- 💡 Passionate about embedded systems, computer architecture, and signal/image processing
+- 🛠️ I build small projects using C, C++, Java, VHDL, and Linux-based tools
+- 🔭 Currently learning more about hardware security and cryptography
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/basil97612744" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/basil-barakat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://facebook.com/basil.barakat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <a href="https://instagram.com/basil.barakat_2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+</p>
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basilbarakat15&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=basilbarakat15&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basilbarakat15" alt="GitHub streak" />
+</p>
+
+---
+
+## Pinned projects
+
+> Replace these with links to your actual repos and short descriptions.
+
+- **Project A** — Short sentence about what the project does and the tech used.
+- **Project B** — Short sentence about impact or a demo link.
+
+---
+
+## Goals / What I'm learning
+
+- Learn advanced VHDL techniques and verification (TDD/BDD workflow)
+- Explore hardware attacks and secure design practices
+- Build a polished portfolio of embedded projects with documentation and demos
+
+---
+
+## How to use this README
+
+1. Copy the content of this file into your `README.md` in your GitHub profile repo (the repo named `basilbarakat15`).
+2. Replace placeholder project names and profile links with your exact URLs.
+3. If you want a minimal or dark theme version, tell me and I will provide variants.
+
+---
+
+<p align="center">Made with ❤️ — feel free to ask for a tailored variant (minimal, technical, or visual portfolio).</p>
