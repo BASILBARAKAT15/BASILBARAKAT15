@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/basil barakat">
+<a href="[https://linkedin.com/in/basil barakat](https://www.linkedin.com/in/basil-barakat/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
