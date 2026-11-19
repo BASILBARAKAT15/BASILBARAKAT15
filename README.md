@@ -1,181 +1,164 @@
-&#x20;\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,100:0F766E&amp;height=160&amp;section=header&amp;text=BASIL%20BARAKAT&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Computer%20Engineering%20Student&amp;descAlignY=60&amp;descSize=17](https://capsule-render.vercel.app/api?type=waving\&amp;color=0:111827,100:0F766E\&amp;height=160\&amp;section=header\&amp;text=BASIL%20BARAKAT\&amp;fontSize=38\&amp;fontColor=FFFFFF\&amp;fontAlignY=38\&amp;desc=Computer%20Engineering%20Student\&amp;descAlignY=60\&amp;descSize=17)" /> \</p>
+ <div align="center">
 
-\<h3 align="center">   Computer Engineering Student | Digital Design and Verification \</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B2545,100:00D9C0&height=200&section=header&text=BASIL%20BARAKAT&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20BEYOND%20THE%20CODE&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 
-\<p align="center">   An-Najah National University | Palestine \</p>
+# Basil Barakat
 
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/basil-barakat/](https://www.linkedin.com/in/basil-barakat/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square\&amp;logo=linkedin\&amp;logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/basilbarakat15](https://github.com/basilbarakat15)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&amp;logo=github&amp;logoColor=white](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square\&amp;logo=github\&amp;logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:barakatbasil79\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square\&amp;logo=gmail\&amp;logoColor=white)" alt="Email" />
-&#x20; \</a>
-\</p>
+### Computer Engineer in Progress | Digital Design | Systems & Security
+
+*Turning complex ideas into working systems.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/basilbarakat15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basil-barakat/)
+[![Email](https://img.shields.io/badge/Email-Contact-00BFA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barakatbasil79@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+## `01` — The Engineer Behind the Screen
 
-I am a Computer Engineering student at **An-Najah National University**, expected to graduate in 2027, with a strong interest in digital hardware design, hardware verification, and computer systems.
+I'm a Computer Engineering student at **An-Najah National University**, passionate about understanding technology from the hardware level all the way to the software layer.
 
-My experience includes developing digital designs using **VHDL and Verilog**, implementing RTL modules, designing FPGA-based systems, and developing testbenches for hardware simulation and validation.
+My interests live at the intersection of:
 
-Alongside hardware engineering, I have practical experience in C/C++, Python, Linux, network engineering, and cybersecurity. I enjoy solving technical problems and developing projects that combine theoretical knowledge with practical engineering applications.
+- **Digital Engineering** — Designing logic, building RTL architectures, and exploring FPGA systems.
+- **Computer Systems** — Understanding processors, architecture, and how systems communicate.
+- **Cybersecurity** — Exploring vulnerabilities, analyzing networks, and building security awareness.
+- **Software Engineering** — Turning ideas into functional applications through programming and problem-solving.
 
-I am particularly interested in **Hardware Verification Engineering, Digital Design, and FPGA Development**.
-
-## Technical Skills
-
-**Hardware Design and Verification**
-
-- VHDL and Verilog
-- RTL Development
-- Digital Logic Design
-- FPGA Design
-- Hardware Simulation and Verification
-- Vivado
-- Testbench Development
-
-**Programming and Software Development**
-
-- C, C++, Python, Java
-- JavaScript, PHP, HTML, CSS
-- Assembly Language
-- Algorithmic Problem Solving
-
-**Networking and Cybersecurity**
-
-- TCP/IP and LAN Configuration
-- Network Infrastructure
-- Network Scanning and Vulnerability Assessment
-- Penetration Testing in Controlled Environments
-- OSINT and Security Assessment
-- Nmap, Nessus, Wireshark
-- Burp Suite and Metasploit
-- Linux Administration
-
-**Development Tools and Databases**
-
-- Linux (RHEL and Kali Linux)
-- Git and GitHub
-- Visual Studio
-- Vivado and Multisim
-- PostgreSQL and MySQL
-
-## Technology Stack
-
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php&amp;perline=6](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php\&amp;perline=6)" alt="Programming languages" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,nodejs,mysql,postgres,linux&amp;perline=6](https://skillicons.dev/icons?i=html,css,nodejs,mysql,postgres,linux\&amp;perline=6)" alt="Development technologies" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,bash,vscode&amp;perline=6](https://skillicons.dev/icons?i=git,github,bash,vscode\&amp;perline=6)" alt="Development tools" />
-\</p>
-
-\<p align="center">
-&#x20; \<strong>Hardware Description Languages:\</strong> VHDL | Verilog | RTL
-\</p>
+I believe great engineering isn't just about writing code. It's about understanding what's happening underneath it.
 
 ---
 
-## Featured Projects
+## `02` — My Engineering Universe
 
-### 1. VHDL CPU Control Unit
+<div align="center">
 
-- Designed a modular CPU control unit using VHDL.
-- Implemented a 10-state finite-state machine (FSM).
-- Developed opcode decoding for a 25-instruction set.
-- Generated ALU, branching, register-write, and program-counter control signals.
-- Created a testbench to simulate and validate instruction execution.
+| DIGITAL DESIGN | CYBERSECURITY | SOFTWARE |
+|:---:|:---:|:---:|
+| RTL & Logic Design | Network Security | Backend Development |
+| VHDL / Verilog | Penetration Testing | Application Development |
+| FPGA & Simulation | OSINT & Analysis | Algorithms |
 
-### 2. Network and Web Application Penetration Testing
+</div>
 
-- Conducted security assessments across Linux servers and Windows systems.
-- Identified and documented six vulnerabilities with CVSS scores reaching 10.0.
-- Used Nmap, Metasploit, Burp Suite, and DVWA in controlled environments.
-- Produced a 31-page technical security assessment report with findings and remediation recommendations.
+### My Toolkit
 
-### 3. AI-Powered PC Builder Web Application
+<div align="center">
 
-- Developed a web application for custom PC configuration and hardware compatibility analysis.
-- Integrated Gemini AI to analyze components and generate compatibility reports.
-- Implemented backend functionality using Node.js, Express, PHP, and MySQL.
-- Built the frontend using HTML, CSS, and JavaScript.
+**Hardware & Low-Level**
 
-### 4. Digital Design and VHDL Laboratory Projects
+![VHDL](https://img.shields.io/badge/VHDL-34495E?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-34495E?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-34495E?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-34495E?style=flat-square)
 
-- Implemented digital logic circuits and RTL hardware designs.
-- Developed and simulated FPGA-based designs using Vivado.
-- Applied digital systems and computer architecture concepts.
+**Programming**
 
-### 5. Cooking System
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- Developed a Java-based application for meal planning, ingredient sourcing, and scheduling.
-- Applied Behavior-Driven Development (BDD) and Test-Driven Development (TDD).
+**Security & Infrastructure**
 
-### 6. Beauty Salon Management System
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 
-- Developed a management application for appointments, services, staff scheduling, and payments.
-
----
-
-## Training and Experience
-
-| Organization                                | Role                        | Period         |
-| ------------------------------------------- | --------------------------- | -------------- |
-| IEEE An-Najah University and Gaza Sky Geeks | Penetration Testing Trainee | Jul – Sep 2026 |
-| Gaza Sky Geeks                              | Problem Solving Training    | Jul – Sep 2026 |
-| Internet Society, Palestine                 | DDCN Trainee                | Sep – Oct 2025 |
-| Udacity                                     | Programming Nanodegree      | Jul – Nov 2025 |
-
-## Community Involvement
-
-- **IEEE Student Branch – An-Najah University:** Member and Intern.
-- **Google Developer Student Clubs:** Member.
-- **Gaza Sky Geeks:** Participant.
-- **Engineering Without Borders – An-Najah University:** Member.
+</div>
 
 ---
 
-## GitHub Statistics
+## `03` — Selected Engineering Projects
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=basilbarakat15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;rank_icon=github](https://github-readme-stats.vercel.app/api?username=basilbarakat15\&amp;show_icons=true\&amp;theme=tokyonight\&amp;hide_border=true\&amp;bg_color=0D1117\&amp;rank_icon=github)" alt="GitHub statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=basilbarakat15&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=basilbarakat15\&amp;layout=compact\&amp;theme=tokyonight\&amp;hide_border=true\&amp;bg_color=0D1117)" alt="Most used programming languages" />
-\</p>
+A few things I've designed, developed, and explored.
 
-\<p align="center">
-&#x20; \<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=basilbarakat15&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117](https://github-readme-activity-graph.vercel.app/graph?username=basilbarakat15\&amp;theme=tokyo-night\&amp;hide_border=true\&amp;bg_color=0D1117)" alt="GitHub contribution activity" />
-\</p>
+### <img src="https://img.shields.io/badge/01-DIGITAL%20DESIGN-00D9C0?style=flat-square" />
+
+**CPU Control Unit — VHDL**
+
+A hardware design project focused on CPU instruction control and digital architecture.
+
+- 10-state finite-state machine.
+- 25-instruction opcode decoding.
+- ALU and control-signal generation.
+- Custom testbench and simulation.
+
+### <img src="https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-00D9C0?style=flat-square" />
+
+**AI-Powered PC Builder**
+
+A full-stack application that brings AI into PC configuration and hardware compatibility analysis.
+
+- Gemini AI integration.
+- Hardware compatibility reports.
+- Node.js, Express, PHP, and MySQL.
+- Interactive web interface.
+
+### <img src="https://img.shields.io/badge/03-CYBERSECURITY-00D9C0?style=flat-square" />
+
+**Network & Web Security Assessment**
+
+A practical security assessment project involving network and web application testing in controlled environments.
+
+- Vulnerability identification and assessment.
+- Network analysis and security tools.
+- CVSS-based findings.
+- Technical reporting and remediation recommendations.
 
 ---
 
-## Let's Connect
+## `04` — Beyond Individual Projects
 
-\<p align="center">
-&#x20; \<a href="mailto\:barakatbasil79\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&amp;logo=gmail\&amp;logoColor=white)" alt="Email" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/basil-barakat/](https://www.linkedin.com/in/basil-barakat/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&amp;logo=linkedin\&amp;logoColor=white)" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/basilbarakat15](https://github.com/basilbarakat15)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&amp;logo=github\&amp;logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-\</p>
+I enjoy learning through technical communities, collaborative environments, and hands-on challenges.
 
-\<p align="center">
-&#x20; \<em>Engineering digital systems. Building reliable solutions. Exploring technology.\</em>
-\</p>
+<div align="center">
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F766E,100:111827&amp;height=100&amp;section=footer](https://capsule-render.vercel.app/api?type=waving\&amp;color=0:0F766E,100:111827\&amp;height=100\&amp;section=footer)" />
-\</p>
+<img src="https://img.shields.io/badge/IEEE-Student%20Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/GDSC-Community-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gaza%20Sky%20Geeks-Participant-00A67D?style=for-the-badge" />
+
+</div>
+
+---
+
+## `05` — GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=basilbarakat15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9C0&icon_color=00D9C0&text_color=FFFFFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilbarakat15&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9C0&text_color=FFFFFF" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basilbarakat15&bg_color=050816&color=00D9C0&line=00D9C0&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `06` — Let's Build Something
+
+Interested in engineering, technology, hardware, or software?
+
+I'm always interested in connecting with people who enjoy solving problems and creating meaningful things.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-00D9C0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/basil-barakat/)
+
+[![Email](https://img.shields.io/badge/GET%20IN%20TOUCH-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9C0)](mailto:barakatbasil79@gmail.com)
+
+<br/>
+
+**THINK. DESIGN. BUILD. VERIFY.**
+
+<sub>© Basil Barakat · Computer Engineering · Palestine</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,50:0B2545,100:050816&height=120&section=footer" width="100%" />
+
+</div>
